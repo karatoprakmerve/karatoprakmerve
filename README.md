@@ -16,7 +16,7 @@
 
 ✨ My biggest <i>inspiration</i> is nature, music and art.
    
-👀 I specifically interested in <i>space</i> and <i>analog photography</i>. 
+👀 I specifically interested in <i>space</i> and <i>analogue photography</i>. 
  </p>
  
 
