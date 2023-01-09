@@ -10,9 +10,11 @@
     <li>Programming with <b>JavaScript</b></li>
     <li>In-depth <b>HTML</b> and <b>CSS</b></li>
     <li><b>Version Control</b></li>
+    <li><b>UX/UI Design Principles</b></li>
+    <li><b>React Basics</b></li>
   </ul>
 
-🌱 Currently, I continue to learn <b>React</b> and <b>UX/UI Design Principles</b>.
+🌱 Currently, I continue to learn <b>React Advanced</b>.
 
 ✨ My biggest <i>inspiration</i> is nature, music and art.
    
