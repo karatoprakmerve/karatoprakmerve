@@ -1,7 +1,7 @@
 <h1> 👩🏻‍🚀 Hi, This is Merve speaking!</h1>
 
 <p>
-  Very warm welcome to my GitHub profile. I've always been curious about the world of coding and I've taken many courses in this field before. However, I     finally started my Front-End Development journey in 2022 (YAAYY 🎉)  
+  Very warm welcome to my GitHub profile. I've always been curious about the world of coding and I've taken many courses in this field before. However, I     finally started my Front-End Development journey.(YAAYY 🎉)  
   
 👩🏻‍💻 I'm getting Front-End Developer Specialization which Meta manages through Coursera. 
   As part of this, I've completed the courses below:
