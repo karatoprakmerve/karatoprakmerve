@@ -12,9 +12,10 @@
     <li><b>Version Control</b></li>
     <li><b>UX/UI Design Principles</b></li>
     <li><b>React Basics</b></li>
+    <li><b>React Advanced</b></li>
   </ul>
 
-🌱 Currently, I continue to learn <b>React Advanced</b>.
+🌱 Currently, I'm still learning more about <b>React</b>.
 
 ✨ My biggest <i>inspiration</i> is nature, music and art.
    
